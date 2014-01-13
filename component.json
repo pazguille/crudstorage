@@ -1,0 +1,22 @@
+{
+  "name": "crudstorage",
+  "repo": "pazguille/crudstorage",
+  "description": "Create, read, update and delete from localStorage or sessionStorage.",
+  "version": "1.0.0",
+  "author": "Guille Paz <guille87paz@gmail.com>",
+  "twitter": "@pazguille",
+  "keywords": [
+    "crudstorage",
+    "localStorage",
+    "sessionStorage",
+    "crud",
+    "storage"
+  ],
+  "dependencies": {},
+  "development": {
+    "bestander/jasmine": "*"
+  },
+  "license": "MIT",
+  "main": "dist/crudstorage.js",
+  "scripts": ["dist/crudstorage.js"]
+}
